@@ -1,2 +1,2 @@
 # CodeWars
-https://www.codewars.com/users/redgato7
+https://www.codewars.com/users/redgato
